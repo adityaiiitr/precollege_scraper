@@ -1,0 +1,8 @@
+garbage/
+.env
+node_modules/
+extracted_data.txt
+aiagent2.js
+myenv/
+package-lock.json
+package.json
